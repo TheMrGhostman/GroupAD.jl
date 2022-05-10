@@ -829,6 +829,12 @@ version = "1.0.2"
 [[Unicode]]
 uuid = "4ec0a83e-493e-50e2-b9ac-8f72acf5a8f5"
 
+[[ValueHistories]]
+deps = ["DataStructures", "RecipesBase"]
+git-tree-sha1 = "9cc583107e0c09b8986ac10660653fa2e37c0f62"
+uuid = "98cad3c8-aec3-5f06-8e41-884608649ab7"
+version = "0.5.4"
+
 [[ZipFile]]
 deps = ["Libdl", "Printf", "Zlib_jll"]
 git-tree-sha1 = "3593e69e469d2111389a9bd06bac1f3d730ac6de"
