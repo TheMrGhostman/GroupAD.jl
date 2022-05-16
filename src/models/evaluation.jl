@@ -1,5 +1,5 @@
 ### Provides evaluation functions which do not depend on the used model (VAE or Statistician)
-using IPMeasures
+using GroupAD.IPMeasures
 
 """
     calculate_logU(lh)
